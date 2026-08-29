@@ -1,0 +1,63 @@
+about:
+  description: An extremely fast Python linter and code formatter, written in Rust.
+  license: MIT
+  homepage: https://docs.astral.sh/ruff
+  head: 38eec97
+  archived: false
+  latestVersion: 0.16.5
+  collectedAt: 2026-08-29T07:22:40Z
+timeline:
+  created: 2022-08-09
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-27
+popularity:
+  star: 49376
+  watcher: 116
+  fork: 2366
+  release: 425
+  contributor: 943
+  pullRequest: 2855
+  issue: 8274
+language:
+  Rust: 27045177
+  Python: 667234
+  TypeScript: 209770
+  Shell: 22006
+  CSS: 6258
+  HTML: 3234
+  Dockerfile: 1352
+  RenderScript: 2
+totalLine: 27955033
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 5
+    mergedPR: 471
+    openPR: 132
+    closedIssue: 29
+    openIssue: 47
+    commit: 518
+  last90d:
+    since: 2026-05-31
+    release: 13
+    mergedPR: 1517
+    openPR: 261
+    closedIssue: 106
+    openIssue: 131
+    commit: 1707
+  last180d:
+    since: 2026-03-02
+    release: 24
+    mergedPR: 2569
+    openPR: 328
+    closedIssue: 271
+    openIssue: 215
+    commit: 2888
+  last360d:
+    since: 2025-09-03
+    release: 48
+    mergedPR: 4841
+    openPR: 392
+    closedIssue: 690
+    openIssue: 414
+    commit: 5596
