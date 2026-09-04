@@ -1,25 +1,27 @@
 about:
-  description: An extremely fast Python linter and code formatter, written in Rust.
+  description:
+  |
+    An extremely fast Python linter and code formatter, written in Rust.
   license: MIT
   homepage: https://docs.astral.sh/ruff
-  head: 8ca8d59
+  head: 118c14f
   archived: false
   latestVersion: 0.16.6
-  collectedAt: 2026-09-04T05:05:48Z
+  collectedAt: 2026-09-04T19:59:39Z
 timeline:
   created: 2022-08-09
   lastCommit: 2026-09-04
   lastRelease: 2026-09-03
 popularity:
-  star: 49469
-  watcher: 125
-  fork: 2385
+  star: 49479
+  watcher: 127
+  fork: 2388
   release: 426
-  contributor: 947
-  pullRequest: 2898
-  issue: 8286
+  contributor: 944
+  pullRequest: 19183
+  issue: 8291
 language:
-  Rust: 27331686
+  Rust: 27336226
   Python: 650582
   TypeScript: 209770
   Shell: 22000
@@ -27,37 +29,63 @@ language:
   HTML: 3234
   Dockerfile: 1352
   RenderScript: 2
-totalLine: 28224884
+totalBytes: 28229424
 recent:
   last30d:
     since: 2026-08-05
     release: 5
-    mergedPR: 421
-    openPR: 133
-    closedIssue: 29
-    openIssue: 47
-    commit: 456
+    mergedPR: 428
+    openPR: 140
+    closedIssue: 31
+    openIssue: 50
+    commit: 465
+  last60d:
+    since: 2026-07-06
+    release: 9
+    mergedPR: 997
+    openPR: 229
+    closedIssue: 69
+    openIssue: 105
+    commit: 1085
   last90d:
     since: 2026-06-06
     release: 13
-    mergedPR: 1491
-    openPR: 258
-    closedIssue: 99
-    openIssue: 130
-    commit: 1643
+    mergedPR: 1498
+    openPR: 265
+    closedIssue: 101
+    openIssue: 133
+    commit: 1652
   last180d:
     since: 2026-03-08
     release: 24
-    mergedPR: 2577
-    openPR: 330
-    closedIssue: 262
-    openIssue: 217
-    commit: 2847
+    mergedPR: 2584
+    openPR: 337
+    closedIssue: 264
+    openIssue: 220
+    commit: 2856
   last360d:
     since: 2025-09-09
     release: 48
-    mergedPR: 4857
-    openPR: 402
-    closedIssue: 684
-    openIssue: 415
-    commit: 5587
+    mergedPR: 4864
+    openPR: 409
+    closedIssue: 686
+    openIssue: 418
+    commit: 5596
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 8905
+    openPR: 450
+    closedIssue: 2228
+    openIssue: 959
+    commit: 9107
+total:
+  release: 426
+  mergedPR: 16277
+  openPR: 458
+  closedIssue: 6580
+  openIssue: 1711
+  commit: 17063
+---
+---
+
