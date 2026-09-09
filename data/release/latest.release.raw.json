@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 44013,
       "digest": "sha256:428cedd21967d634936b542af4a53a2346fc60a38780dc1dcd59b3a3b25ac5e5",
-      "download_count": 39,
+      "download_count": 42,
       "created_at": "2026-09-03T17:20:06Z",
       "updated_at": "2026-09-03T17:20:06Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/dist-manifest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9331576,
       "digest": "sha256:77513748c833b435b82453ba20e07db808ef6c5121945ede80a6cf21bee468a4",
-      "download_count": 18612,
+      "download_count": 21882,
       "created_at": "2026-09-03T17:20:06Z",
       "updated_at": "2026-09-03T17:20:06Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:36a74a57360f7fb23dff09f84d7236b1ef5e257c3272361922dcdb409ba87d98",
-      "download_count": 151,
+      "download_count": 171,
       "created_at": "2026-09-03T17:20:06Z",
       "updated_at": "2026-09-03T17:20:06Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-aarch64-apple-darwin.tar.gz.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9539018,
       "digest": "sha256:0a14f2a8de7e6a2bb43f47b329d639970462a8ca302b1c4c18668b5e3135462e",
-      "download_count": 199,
+      "download_count": 232,
       "created_at": "2026-09-03T17:20:06Z",
       "updated_at": "2026-09-03T17:20:06Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-aarch64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:ea9d34fef76b2efad8edf6a4db7f0ede07cf1d9790e4e29b4c3685e0e8903d5b",
-      "download_count": 120,
+      "download_count": 132,
       "created_at": "2026-09-03T17:20:06Z",
       "updated_at": "2026-09-03T17:20:06Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-aarch64-pc-windows-msvc.zip.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 9436379,
       "digest": "sha256:3c1b99f65b8bf2df64ff099ee072e11b4652813e2c164ec875a26fc9e99be88f",
-      "download_count": 4599,
+      "download_count": 5300,
       "created_at": "2026-09-03T17:20:06Z",
       "updated_at": "2026-09-03T17:20:07Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-aarch64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:7e1d39e422c711ad4248e91cecd613626965bb1eaba31e246ddc5863a1244a38",
-      "download_count": 148,
+      "download_count": 177,
       "created_at": "2026-09-03T17:20:06Z",
       "updated_at": "2026-09-03T17:20:07Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-aarch64-unknown-linux-gnu.tar.gz.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 9592731,
       "digest": "sha256:9b28fc0646a7379c5a25f68b559669c39bc000325bbad5b64b47fcf6a3b582ae",
-      "download_count": 286,
+      "download_count": 347,
       "created_at": "2026-09-03T17:20:06Z",
       "updated_at": "2026-09-03T17:20:07Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-aarch64-unknown-linux-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:a9ba9c4db8af57d5fffe91101832bc36d54711cdd486d98fe8cfce50151b7ee9",
-      "download_count": 94,
+      "download_count": 105,
       "created_at": "2026-09-03T17:20:07Z",
       "updated_at": "2026-09-03T17:20:07Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 9580439,
       "digest": "sha256:54e219f6fa9fc933f0134918e12275388ec9c9c0a14ce56a156c89185628692b",
-      "download_count": 31,
+      "download_count": 34,
       "created_at": "2026-09-03T17:20:07Z",
       "updated_at": "2026-09-03T17:20:07Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-arm-unknown-linux-musleabihf.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:eaf9952f304a92d9c5214a70f0feb4e1d0c23d1109b407783bdbdbae07dda9fb",
-      "download_count": 85,
+      "download_count": 96,
       "created_at": "2026-09-03T17:20:07Z",
       "updated_at": "2026-09-03T17:20:07Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-arm-unknown-linux-musleabihf.tar.gz.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 9415884,
       "digest": "sha256:5f8e6453d6ac337d7b59a52cd8f0646f2a6b3e12a9039f7dc4800a03830383d3",
-      "download_count": 31,
+      "download_count": 34,
       "created_at": "2026-09-03T17:20:07Z",
       "updated_at": "2026-09-03T17:20:08Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-armv7-unknown-linux-gnueabihf.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:f279db4bf6cebcf659d6ae50aa9150b4a5dbc81162037e9b5078706e2f17d6bc",
-      "download_count": 86,
+      "download_count": 97,
       "created_at": "2026-09-03T17:20:07Z",
       "updated_at": "2026-09-03T17:20:08Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-armv7-unknown-linux-gnueabihf.tar.gz.sha256"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 9412882,
       "digest": "sha256:5f564c42249f40e70e41542caa26f81f46333196c822e029adc04410c3f525fb",
-      "download_count": 30,
+      "download_count": 33,
       "created_at": "2026-09-03T17:20:07Z",
       "updated_at": "2026-09-03T17:20:08Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-armv7-unknown-linux-musleabihf.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 109,
       "digest": "sha256:5c1a9fcf25cbb495279bc8dbf361f5293bf9146c73042e869d525492a7cf7a61",
-      "download_count": 87,
+      "download_count": 98,
       "created_at": "2026-09-03T17:20:08Z",
       "updated_at": "2026-09-03T17:20:08Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-armv7-unknown-linux-musleabihf.tar.gz.sha256"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 9426521,
       "digest": "sha256:8f05bd2ee05672ea1ecafe7b75d53dce0490ca6eefac32e5a5fac546026a6b24",
-      "download_count": 40,
+      "download_count": 43,
       "created_at": "2026-09-03T17:20:08Z",
       "updated_at": "2026-09-03T17:20:08Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-i686-pc-windows-msvc.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:909e839494aef0c3584561f28c17c701ccbf4874dbbc52dc6f4ffd1e27da1c46",
-      "download_count": 111,
+      "download_count": 121,
       "created_at": "2026-09-03T17:20:08Z",
       "updated_at": "2026-09-03T17:20:08Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-i686-pc-windows-msvc.zip.sha256"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 10168435,
       "digest": "sha256:70cc9a5e989f7ec8d00e5c0c1709aae56edc8ab6e53e582522bdc471a8a43af5",
-      "download_count": 29,
+      "download_count": 31,
       "created_at": "2026-09-03T17:20:08Z",
       "updated_at": "2026-09-03T17:20:09Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-i686-unknown-linux-gnu.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:53cabd951974404f3d43097d758e6dd346996c901b43acfa4d54eb5ca34db66f",
-      "download_count": 86,
+      "download_count": 97,
       "created_at": "2026-09-03T17:20:08Z",
       "updated_at": "2026-09-03T17:20:09Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-i686-unknown-linux-gnu.tar.gz.sha256"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 9892821,
       "digest": "sha256:f3afad5f2933e79459a95a9975ce28a77231a0133af61916786bc8632b867974",
-      "download_count": 30,
+      "download_count": 33,
       "created_at": "2026-09-03T17:20:08Z",
       "updated_at": "2026-09-03T17:20:09Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-i686-unknown-linux-musl.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:c92d5192f31e3d8c5e9d0af3b937d2cd9c7b9126083f310f0d9e99ac4c6682ff",
-      "download_count": 84,
+      "download_count": 94,
       "created_at": "2026-09-03T17:20:09Z",
       "updated_at": "2026-09-03T17:20:09Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-i686-unknown-linux-musl.tar.gz.sha256"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 22594,
       "digest": "sha256:b747d72a63191dd85737c8d6f5480943093762bfdf14b79770e61052e367bcc4",
-      "download_count": 32,
+      "download_count": 35,
       "created_at": "2026-09-03T17:20:09Z",
       "updated_at": "2026-09-03T17:20:09Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-installer.ps1"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 68260,
       "digest": "sha256:72dbb93c9473bcc5e67bd033bd903a3badc473b7f28deeaa725529f811d0e3ac",
-      "download_count": 39,
+      "download_count": 44,
       "created_at": "2026-09-03T17:20:09Z",
       "updated_at": "2026-09-03T17:20:09Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-installer.sh"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 10866564,
       "digest": "sha256:5688226c9f68da7b048560ba1dd56fe8e199c5528ee5c8bdded4ee25d5079587",
-      "download_count": 32,
+      "download_count": 34,
       "created_at": "2026-09-03T17:20:09Z",
       "updated_at": "2026-09-03T17:20:10Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-powerpc64le-unknown-linux-gnu.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:2ccb8921ffbe1a12124b2eec3a4641088aa1eb3321feefde4eaa6f37dc164a4b",
-      "download_count": 87,
+      "download_count": 97,
       "created_at": "2026-09-03T17:20:09Z",
       "updated_at": "2026-09-03T17:20:10Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-powerpc64le-unknown-linux-gnu.tar.gz.sha256"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 10199798,
       "digest": "sha256:6d4f32179f1fad29551ff9106d7af6be773177fca5e4baae7488db57980d16a8",
-      "download_count": 31,
+      "download_count": 35,
       "created_at": "2026-09-03T17:20:09Z",
       "updated_at": "2026-09-03T17:20:10Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-riscv64gc-unknown-linux-gnu.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:4ac4956492f8c7db4a64ae4a11a31389d722e79e6d30455eefcb2b2df97deb44",
-      "download_count": 88,
+      "download_count": 99,
       "created_at": "2026-09-03T17:20:09Z",
       "updated_at": "2026-09-03T17:20:10Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-riscv64gc-unknown-linux-gnu.tar.gz.sha256"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 10488777,
       "digest": "sha256:f77f8443ea0b3afc297ea2dc873510a3e99f8f822ac4c906fccce4cae6391eaf",
-      "download_count": 28,
+      "download_count": 32,
       "created_at": "2026-09-03T17:20:09Z",
       "updated_at": "2026-09-03T17:20:10Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-s390x-unknown-linux-gnu.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:165cf01a5d0fb1c5975ec29899b77fbfcd9edb25918463c65a5110849945ee56",
-      "download_count": 85,
+      "download_count": 96,
       "created_at": "2026-09-03T17:20:10Z",
       "updated_at": "2026-09-03T17:20:10Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-s390x-unknown-linux-gnu.tar.gz.sha256"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 9840296,
       "digest": "sha256:87cce7e591603efa979be9044ac00835638a5d9052947070b6e2e7c0cdb21940",
-      "download_count": 901,
+      "download_count": 1024,
       "created_at": "2026-09-03T17:20:10Z",
       "updated_at": "2026-09-03T17:20:11Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-x86_64-apple-darwin.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 98,
       "digest": "sha256:7de5baa18a1caea2bae02935e2a811ccc032534a4df0c68439d2217e21e0ec8b",
-      "download_count": 94,
+      "download_count": 106,
       "created_at": "2026-09-03T17:20:10Z",
       "updated_at": "2026-09-03T17:20:10Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-x86_64-apple-darwin.tar.gz.sha256"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 9729653,
       "digest": "sha256:d968cbf82bcb42042a59e9478a48f9a00db88cceaa2eeaa86c4834c02a70eaf6",
-      "download_count": 13790,
+      "download_count": 15772,
       "created_at": "2026-09-03T17:20:10Z",
       "updated_at": "2026-09-03T17:20:11Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-x86_64-pc-windows-msvc.zip"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 98,
       "digest": "sha256:cf8c9b8baea5ea6a424ea94c7bffc0cc376e68aeed2a3ea6496ecd18188fc37b",
-      "download_count": 124,
+      "download_count": 140,
       "created_at": "2026-09-03T17:20:10Z",
       "updated_at": "2026-09-03T17:20:11Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-x86_64-pc-windows-msvc.zip.sha256"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 9926956,
       "digest": "sha256:0696335ef16615d8c7445ad438750eb0f55b3da6f153df21265a7c6d5750254f",
-      "download_count": 61972,
+      "download_count": 74764,
       "created_at": "2026-09-03T17:20:10Z",
       "updated_at": "2026-09-03T17:20:11Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-x86_64-unknown-linux-gnu.tar.gz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:f3b998eec6d6b372de6141e44613a742e31881d89cf54bf737f577f1bc039180",
-      "download_count": 237,
+      "download_count": 331,
       "created_at": "2026-09-03T17:20:11Z",
       "updated_at": "2026-09-03T17:20:11Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 10337077,
       "digest": "sha256:63740c5a1576dea4e1f2ff3f7427031188d23a11b7a4f78560749b8732a3b724",
-      "download_count": 7508,
+      "download_count": 9105,
       "created_at": "2026-09-03T17:20:11Z",
       "updated_at": "2026-09-03T17:20:11Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-x86_64-unknown-linux-musl.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:de208403f9e5e4184c01393081712adef18ae5bd4cb661e3f48a9b776771c84e",
-      "download_count": 147,
+      "download_count": 162,
       "created_at": "2026-09-03T17:20:11Z",
       "updated_at": "2026-09-03T17:20:11Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/ruff-x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:6694a132cac4bde94b08fa0ea1b24e58bd5553e01ec11965faf9d78140a7f79c",
-      "download_count": 31,
+      "download_count": 36,
       "created_at": "2026-09-03T17:20:11Z",
       "updated_at": "2026-09-03T17:20:11Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/sha256.sum"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 13480803,
       "digest": "sha256:cc00971afa1067767a81b55b53ba54bcf35f747f990a5e146236c407590dff97",
-      "download_count": 69,
+      "download_count": 73,
       "created_at": "2026-09-03T17:20:11Z",
       "updated_at": "2026-09-03T17:20:12Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/source.tar.gz"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:6694a132cac4bde94b08fa0ea1b24e58bd5553e01ec11965faf9d78140a7f79c",
-      "download_count": 77,
+      "download_count": 87,
       "created_at": "2026-09-03T17:20:12Z",
       "updated_at": "2026-09-03T17:20:12Z",
       "browser_download_url": "https://github.com/astral-sh/ruff/releases/download/0.16.6/source.tar.gz.sha256"
