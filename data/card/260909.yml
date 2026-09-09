@@ -2,12 +2,12 @@ about:
   description: "An extremely fast Python linter and code formatter, written in Rust."
   license: MIT
   homepage: https://docs.astral.sh/ruff
-  head: d183429
+  head: 0a24d1f
   archived: false
   latestVersion: "0.16.6"
   latestRelease: "0.16.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T02:30:06Z
+  collectedAt: 2026-09-09T18:17:40Z
 timeline:
   created: 2022-08-09
   lastCommit: 2026-09-09
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-09-03
   lastPrerelease: 
 popularity:
-  star: 49553
+  star: 49561
   watcher: 129
-  fork: 2397
+  fork: 2400
   release: 426
-  contributor: 947
-  pullRequest: 19289
-  issue: 8296
+  contributor: 948
+  pullRequest: 19312
+  issue: 8298
 language:
-  Rust: 27548897
+  Rust: 27598842
   Python: 655942
   TypeScript: 209770
   Shell: 22000
@@ -31,79 +31,79 @@ language:
   HTML: 3234
   Dockerfile: 1352
   RenderScript: 2
-totalBytes: 28447455
+totalBytes: 28497400
 recent:
   last30d:
     since: 2026-08-10
     release: 4
-    mergedPR: 413
-    openPR: 158
-    closedIssue: 31
-    openIssue: 43
-    commit: 411
+    mergedPR: 438
+    openPR: 153
+    closedIssue: 32
+    openIssue: 44
+    commit: 437
   last60d:
     since: 2026-07-11
     release: 8
-    mergedPR: 949
-    openPR: 241
-    closedIssue: 73
-    openIssue: 99
-    commit: 1010
+    mergedPR: 974
+    openPR: 236
+    closedIssue: 74
+    openIssue: 100
+    commit: 1036
   last90d:
     since: 2026-06-11
     release: 13
-    mergedPR: 1458
-    openPR: 285
-    closedIssue: 102
-    openIssue: 127
-    commit: 1595
+    mergedPR: 1484
+    openPR: 279
+    closedIssue: 103
+    openIssue: 128
+    commit: 1621
   last180d:
     since: 2026-03-13
     release: 23
-    mergedPR: 2556
-    openPR: 356
-    closedIssue: 255
+    mergedPR: 2582
+    openPR: 350
+    closedIssue: 257
     openIssue: 207
-    commit: 2793
+    commit: 2819
   last360d:
     since: 2025-09-14
     release: 47
-    mergedPR: 4873
-    openPR: 432
-    closedIssue: 686
+    mergedPR: 4899
+    openPR: 426
+    closedIssue: 688
     openIssue: 411
-    commit: 5548
+    commit: 5574
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 8924
-    openPR: 473
-    closedIssue: 2220
+    mergedPR: 8950
+    openPR: 467
+    closedIssue: 2222
     openIssue: 950
-    commit: 9139
+    commit: 9165
 total:
   release: 426
-  mergedPR: 16327
-  openPR: 480
-  closedIssue: 6587
+  mergedPR: 16353
+  openPR: 474
+  closedIssue: 6589
   openIssue: 1709
-  commit: 17113
+  commit: 17139
 ---
 path: /home/runner/.x-repo/github.com/astral-sh/ruff
-collectedAt: 2026-09-09T02:31:01Z
+collectedAt: 2026-09-09T18:18:31Z
 loc:
   Rust:
-    code: 615004
-    comments: 30557
-    blanks: 71223
-    files: 1989
+    code: 615809
+    comments: 30622
+    blanks: 71274
+    files: 1990
   Python:
     code: 86730
     comments: 11339
     blanks: 27798
     files: 2978
   Json:
-    code: 17600
+    code: 17718
     comments: 0
     blanks: 10
     files: 140
@@ -113,9 +113,9 @@ loc:
     blanks: 635
     files: 31
   Toml:
-    code: 5073
+    code: 5087
     comments: 247
-    blanks: 712
+    blanks: 714
     files: 141
   Yaml:
     code: 4134
@@ -164,19 +164,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 184976
-    blanks: 66011
-    files: 649
+    comments: 186164
+    blanks: 66435
+    files: 650
   Text:
     code: 0
     comments: 187386
     blanks: 6
     files: 42
 total:
-  code: 755915
-  comments: 477999
-  blanks: 184824
-  files: 6159
+  code: 756893
+  comments: 479355
+  blanks: 185336
+  files: 6161
 ---
 
 ---
