@@ -38,7 +38,7 @@ Total: **740,414** lines of code across **5281** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 49,581 · **Forks**: 2,403 · **Open issues**: 8,302 · **Contributors**: 949
+- **Stars**: 49,582 · **Forks**: 2,404 · **Open issues**: 8,302 · **Contributors**: 949
 
 ## Totals (cumulative)
 
@@ -109,4 +109,4 @@ Install metadata for ruff lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:22:40Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T02:25:37Z._
