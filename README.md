@@ -38,22 +38,22 @@ Total: **742,675** lines of code across **5285** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 49,613 · **Forks**: 2,405 · **Open issues**: 8,306 · **Contributors**: 949
+- **Stars**: 49,624 · **Forks**: 2,411 · **Open issues**: 8,307 · **Contributors**: 949
 
 ## Totals (cumulative)
 
-- **Releases**: 427 · **Merged PRs**: 16398 · **Open PRs**: 482 · **Closed issues**: 6590 · **Open issues**: 1716 · **Commits**: 17184
+- **Releases**: 427 · **Merged PRs**: 16398 · **Open PRs**: 485 · **Closed issues**: 6590 · **Open issues**: 1717 · **Commits**: 17184
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 4 | 404 | 149 | 29 | 44 | 342 |
-| last60d | 2026-07-15 | 9 | 941 | 229 | 66 | 102 | 954 |
-| 90d | 2026-06-15 | 13 | 1463 | 283 | 100 | 132 | 1514 |
-| last180d | 2026-03-17 | 24 | 2584 | 352 | 252 | 211 | 2786 |
-| 360d | 2025-09-18 | 48 | 4878 | 434 | 673 | 411 | 5525 |
-| last720d | 2024-09-23 | 100 | 8945 | 475 | 2208 | 949 | 9178 |
+| 30d | 2026-08-15 | 4 | 389 | 150 | 28 | 44 | 342 |
+| last60d | 2026-07-16 | 9 | 911 | 227 | 65 | 100 | 954 |
+| 90d | 2026-06-16 | 13 | 1442 | 284 | 100 | 131 | 1514 |
+| last180d | 2026-03-18 | 24 | 2580 | 355 | 250 | 211 | 2786 |
+| 360d | 2025-09-19 | 47 | 4871 | 437 | 671 | 412 | 5525 |
+| last720d | 2024-09-24 | 100 | 8941 | 478 | 2201 | 947 | 9149 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for ruff lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T02:33:15Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T02:48:26Z._
