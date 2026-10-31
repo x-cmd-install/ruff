@@ -14,15 +14,15 @@ x install ruff
 
 ## Code insight
 
-Total: **778,126** lines of code across **5246** files in the top 5 languages.
+Total: **778,487** lines of code across **5247** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 649,326 | 32,276 | 74,008 | 2035 |
-| Python | 88,772 | 11,751 | 28,210 | 3003 |
+| Rust | 649,676 | 32,308 | 74,038 | 2036 |
+| Python | 88,773 | 11,752 | 28,211 | 3003 |
 | Json | 17,749 | 0 | 10 | 143 |
 | Tsx | 5,730 | 174 | 643 | 31 |
-| Yaml | 5,450 | 485 | 463 | 34 |
+| Yaml | 5,459 | 485 | 463 | 34 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **778,126** lines of code across **5246** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.17.3` (2026-10-27)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-31
 - **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 50,333 · **Forks**: 2,566 · **Open issues**: 8,420 · **Contributors**: 982
+- **Stars**: 50,350 · **Forks**: 2,569 · **Open issues**: 8,423 · **Contributors**: 982
 
 ## Totals (cumulative)
 
-- **Releases**: 434 · **Merged PRs**: 17075 · **Open PRs**: 512 · **Closed issues**: 6692 · **Open issues**: 1728 · **Commits**: 17858
+- **Releases**: 434 · **Merged PRs**: 17085 · **Open PRs**: 510 · **Closed issues**: 6692 · **Open issues**: 1731 · **Commits**: 17868
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 5 | 349 | 148 | 37 | 38 | 394 |
-| last60d | 2026-08-31 | 9 | 790 | 209 | 73 | 70 | 886 |
-| 90d | 2026-08-01 | 13 | 1294 | 269 | 114 | 105 | 1380 |
-| last180d | 2026-05-03 | 25 | 2676 | 370 | 244 | 205 | 2930 |
-| 360d | 2025-11-04 | 48 | 5061 | 459 | 624 | 377 | 5708 |
-| last720d | 2024-11-09 | 100 | 9249 | 503 | 2054 | 909 | 9463 |
+| 30d | 2026-10-01 | 5 | 339 | 140 | 35 | 39 | 404 |
+| last60d | 2026-09-01 | 9 | 792 | 205 | 71 | 71 | 896 |
+| 90d | 2026-08-02 | 13 | 1299 | 266 | 112 | 108 | 1390 |
+| last180d | 2026-05-04 | 25 | 2685 | 366 | 241 | 208 | 2940 |
+| 360d | 2025-11-05 | 48 | 5066 | 456 | 619 | 379 | 5718 |
+| last720d | 2024-11-10 | 100 | 9255 | 501 | 2050 | 911 | 9461 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for ruff lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T03:53:03Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T03:36:46Z._
