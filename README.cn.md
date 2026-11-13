@@ -14,14 +14,14 @@ x install ruff
 
 ## 代码洞察
 
-合计: **788,522** 行代码（覆盖前 5 种语言、共 **5267** 个文件）。
+合计: **790,248** 行代码（覆盖前 5 种语言、共 **5267** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 658,581 | 32,571 | 74,825 | 2048 |
-| Python | 89,372 | 11,821 | 28,272 | 3008 |
+| Rust | 660,227 | 32,642 | 74,901 | 2048 |
+| Python | 89,450 | 11,824 | 28,288 | 3008 |
 | Json | 17,899 | 0 | 10 | 143 |
-| Yaml | 5,837 | 450 | 488 | 37 |
+| Yaml | 5,839 | 456 | 489 | 37 |
 | Tsx | 5,732 | 174 | 643 | 31 |
 
 ## 源代码
@@ -32,73 +32,73 @@ x install ruff
 
 ## 发布
 
-- **最新版本**: `0.17.4` (2026-11-05)
-- **最近提交**: 2026-11-12
+- **最新版本**: `0.17.5` (2026-11-12)
+- **最近提交**: 2026-11-13
 - **Release 含资产**: 40 个
 
 ## 流行度
 
-- **Star**: 51,202 · **Fork**: 2,664 · **开放 issue**: 8,464 · **贡献者**: 992
+- **Star**: 51,237 · **Fork**: 2,667 · **开放 issue**: 8,465 · **贡献者**: 993
 
 ## 累计统计
 
-- **发布数**: 435 · **已合并 PR**: 17321 · **开放 PR**: 545 · **已关闭 issue**: 6718 · **开放 issue**: 1746 · **提交数**: 18103
+- **发布数**: 436 · **已合并 PR**: 17359 · **开放 PR**: 547 · **已关闭 issue**: 6719 · **开放 issue**: 1746 · **提交数**: 18141
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 4 | 457 | 180 | 40 | 47 | 526 |
-| last60d | 2026-09-13 | 8 | 843 | 248 | 76 | 81 | 950 |
-| 90d | 2026-08-14 | 12 | 1313 | 304 | 119 | 112 | 1432 |
-| last180d | 2026-05-16 | 25 | 2816 | 408 | 243 | 216 | 3080 |
-| 360d | 2025-11-17 | 47 | 5158 | 492 | 608 | 383 | 5800 |
-| last720d | 2024-11-22 | 100 | 9322 | 537 | 1984 | 905 | 9544 |
+| 30d | 2026-10-14 | 5 | 468 | 177 | 36 | 44 | 568 |
+| last60d | 2026-09-14 | 9 | 866 | 248 | 77 | 81 | 992 |
+| 90d | 2026-08-15 | 13 | 1336 | 304 | 119 | 111 | 1474 |
+| last180d | 2026-05-17 | 26 | 2852 | 409 | 244 | 216 | 3122 |
+| 360d | 2025-11-18 | 48 | 5189 | 493 | 606 | 383 | 5842 |
+| last720d | 2024-11-23 | 100 | 9355 | 539 | 1981 | 904 | 9570 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [dist-manifest.json](https://github.com/astral-sh/ruff/releases/download/0.17.4/dist-manifest.json) | 44.9 KiB | `other` |
-| [ruff-aarch64-apple-darwin.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-aarch64-apple-darwin.tar.gz) | 8.9 MiB | `native/darwin/arm64` |
-| [ruff-aarch64-apple-darwin.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-aarch64-apple-darwin.tar.gz.sha256) | 99 B | `native/darwin/arm64` |
-| [ruff-aarch64-pc-windows-msvc.zip](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-aarch64-pc-windows-msvc.zip) | 9.4 MiB | `native/win/arm64` |
-| [ruff-aarch64-pc-windows-msvc.zip.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-aarch64-pc-windows-msvc.zip.sha256) | 99 B | `native/win/arm64` |
-| [ruff-aarch64-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-aarch64-unknown-linux-gnu.tar.gz) | 9.2 MiB | `native/linux/arm64/glibc` |
-| [ruff-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-aarch64-unknown-linux-gnu.tar.gz.sha256) | 104 B | `native/linux/arm64/glibc` |
-| [ruff-aarch64-unknown-linux-musl.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-aarch64-unknown-linux-musl.tar.gz) | 9.2 MiB | `native/linux/arm64/musl` |
-| [ruff-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-aarch64-unknown-linux-musl.tar.gz.sha256) | 105 B | `native/linux/arm64/musl` |
-| [ruff-arm-unknown-linux-musleabihf.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-arm-unknown-linux-musleabihf.tar.gz) | 9.4 MiB | `native/linux/arm/musl` |
-| [ruff-arm-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-arm-unknown-linux-musleabihf.tar.gz.sha256) | 107 B | `native/linux/arm/musl` |
-| [ruff-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-armv7-unknown-linux-gnueabihf.tar.gz) | 9.2 MiB | `native/linux/arm/glibc` |
-| [ruff-armv7-unknown-linux-gnueabihf.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-armv7-unknown-linux-gnueabihf.tar.gz.sha256) | 108 B | `native/linux/arm/glibc` |
-| [ruff-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-armv7-unknown-linux-musleabihf.tar.gz) | 9.2 MiB | `native/linux/arm/musl` |
-| [ruff-armv7-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-armv7-unknown-linux-musleabihf.tar.gz.sha256) | 109 B | `native/linux/arm/musl` |
-| [ruff-i686-pc-windows-msvc.zip](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-i686-pc-windows-msvc.zip) | 9.4 MiB | `native/win/x64` |
-| [ruff-i686-pc-windows-msvc.zip.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-i686-pc-windows-msvc.zip.sha256) | 96 B | `native/win/x64` |
-| [ruff-i686-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-i686-unknown-linux-gnu.tar.gz) | 9.8 MiB | `native/linux/x86/glibc` |
-| [ruff-i686-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-i686-unknown-linux-gnu.tar.gz.sha256) | 101 B | `native/linux/x86/glibc` |
-| [ruff-i686-unknown-linux-musl.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-i686-unknown-linux-musl.tar.gz) | 9.6 MiB | `native/linux/x86/musl` |
-| [ruff-i686-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-i686-unknown-linux-musl.tar.gz.sha256) | 102 B | `native/linux/x86/musl` |
-| [ruff-installer.ps1](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-installer.ps1) | 22.1 KiB | `other` |
-| [ruff-installer.sh](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-installer.sh) | 68.0 KiB | `other` |
-| [ruff-powerpc64le-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-powerpc64le-unknown-linux-gnu.tar.gz) | 10.5 MiB | `native/unknown` |
-| [ruff-powerpc64le-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-powerpc64le-unknown-linux-gnu.tar.gz.sha256) | 108 B | `other` |
-| [ruff-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-riscv64gc-unknown-linux-gnu.tar.gz) | 9.8 MiB | `native/linux/riscv64/glibc` |
-| [ruff-riscv64gc-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-riscv64gc-unknown-linux-gnu.tar.gz.sha256) | 106 B | `native/linux/riscv64/glibc` |
-| [ruff-s390x-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-s390x-unknown-linux-gnu.tar.gz) | 10.2 MiB | `native/unknown` |
-| [ruff-s390x-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-s390x-unknown-linux-gnu.tar.gz.sha256) | 102 B | `other` |
-| [ruff-x86_64-apple-darwin.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-x86_64-apple-darwin.tar.gz) | 9.7 MiB | `native/darwin/x64` |
-| [ruff-x86_64-apple-darwin.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-x86_64-apple-darwin.tar.gz.sha256) | 98 B | `native/darwin/x64` |
-| [ruff-x86_64-pc-windows-msvc.zip](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-x86_64-pc-windows-msvc.zip) | 9.8 MiB | `native/win/x64` |
-| [ruff-x86_64-pc-windows-msvc.zip.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-x86_64-pc-windows-msvc.zip.sha256) | 98 B | `native/win/x64` |
-| [ruff-x86_64-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-x86_64-unknown-linux-gnu.tar.gz) | 9.7 MiB | `native/linux/x64/glibc` |
-| [ruff-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-x86_64-unknown-linux-gnu.tar.gz.sha256) | 103 B | `native/linux/x64/glibc` |
-| [ruff-x86_64-unknown-linux-musl.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-x86_64-unknown-linux-musl.tar.gz) | 10.0 MiB | `native/linux/x64/musl` |
-| [ruff-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/ruff-x86_64-unknown-linux-musl.tar.gz.sha256) | 104 B | `native/linux/x64/musl` |
-| [sha256.sum](https://github.com/astral-sh/ruff/releases/download/0.17.4/sha256.sum) | 1.8 KiB | `other` |
-| [source.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.4/source.tar.gz) | 14.1 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.4/source.tar.gz.sha256) | 81 B | `other` |
+| [dist-manifest.json](https://github.com/astral-sh/ruff/releases/download/0.17.5/dist-manifest.json) | 45.2 KiB | `other` |
+| [ruff-aarch64-apple-darwin.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-aarch64-apple-darwin.tar.gz) | 9.0 MiB | `native/darwin/arm64` |
+| [ruff-aarch64-apple-darwin.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-aarch64-apple-darwin.tar.gz.sha256) | 99 B | `native/darwin/arm64` |
+| [ruff-aarch64-pc-windows-msvc.zip](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-aarch64-pc-windows-msvc.zip) | 9.3 MiB | `native/win/arm64` |
+| [ruff-aarch64-pc-windows-msvc.zip.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-aarch64-pc-windows-msvc.zip.sha256) | 99 B | `native/win/arm64` |
+| [ruff-aarch64-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-aarch64-unknown-linux-gnu.tar.gz) | 9.2 MiB | `native/linux/arm64/glibc` |
+| [ruff-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-aarch64-unknown-linux-gnu.tar.gz.sha256) | 104 B | `native/linux/arm64/glibc` |
+| [ruff-aarch64-unknown-linux-musl.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-aarch64-unknown-linux-musl.tar.gz) | 9.1 MiB | `native/linux/arm64/musl` |
+| [ruff-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-aarch64-unknown-linux-musl.tar.gz.sha256) | 105 B | `native/linux/arm64/musl` |
+| [ruff-arm-unknown-linux-musleabihf.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-arm-unknown-linux-musleabihf.tar.gz) | 9.3 MiB | `native/linux/arm/musl` |
+| [ruff-arm-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-arm-unknown-linux-musleabihf.tar.gz.sha256) | 107 B | `native/linux/arm/musl` |
+| [ruff-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-armv7-unknown-linux-gnueabihf.tar.gz) | 9.2 MiB | `native/linux/arm/glibc` |
+| [ruff-armv7-unknown-linux-gnueabihf.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-armv7-unknown-linux-gnueabihf.tar.gz.sha256) | 108 B | `native/linux/arm/glibc` |
+| [ruff-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-armv7-unknown-linux-musleabihf.tar.gz) | 9.2 MiB | `native/linux/arm/musl` |
+| [ruff-armv7-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-armv7-unknown-linux-musleabihf.tar.gz.sha256) | 109 B | `native/linux/arm/musl` |
+| [ruff-i686-pc-windows-msvc.zip](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-i686-pc-windows-msvc.zip) | 9.4 MiB | `native/win/x64` |
+| [ruff-i686-pc-windows-msvc.zip.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-i686-pc-windows-msvc.zip.sha256) | 96 B | `native/win/x64` |
+| [ruff-i686-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-i686-unknown-linux-gnu.tar.gz) | 9.8 MiB | `native/linux/x86/glibc` |
+| [ruff-i686-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-i686-unknown-linux-gnu.tar.gz.sha256) | 101 B | `native/linux/x86/glibc` |
+| [ruff-i686-unknown-linux-musl.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-i686-unknown-linux-musl.tar.gz) | 9.5 MiB | `native/linux/x86/musl` |
+| [ruff-i686-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-i686-unknown-linux-musl.tar.gz.sha256) | 102 B | `native/linux/x86/musl` |
+| [ruff-installer.ps1](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-installer.ps1) | 22.1 KiB | `other` |
+| [ruff-installer.sh](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-installer.sh) | 68.0 KiB | `other` |
+| [ruff-powerpc64le-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-powerpc64le-unknown-linux-gnu.tar.gz) | 10.4 MiB | `native/unknown` |
+| [ruff-powerpc64le-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-powerpc64le-unknown-linux-gnu.tar.gz.sha256) | 108 B | `other` |
+| [ruff-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-riscv64gc-unknown-linux-gnu.tar.gz) | 9.8 MiB | `native/linux/riscv64/glibc` |
+| [ruff-riscv64gc-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-riscv64gc-unknown-linux-gnu.tar.gz.sha256) | 106 B | `native/linux/riscv64/glibc` |
+| [ruff-s390x-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-s390x-unknown-linux-gnu.tar.gz) | 10.1 MiB | `native/unknown` |
+| [ruff-s390x-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-s390x-unknown-linux-gnu.tar.gz.sha256) | 102 B | `other` |
+| [ruff-x86_64-apple-darwin.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-x86_64-apple-darwin.tar.gz) | 9.7 MiB | `native/darwin/x64` |
+| [ruff-x86_64-apple-darwin.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-x86_64-apple-darwin.tar.gz.sha256) | 98 B | `native/darwin/x64` |
+| [ruff-x86_64-pc-windows-msvc.zip](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-x86_64-pc-windows-msvc.zip) | 9.7 MiB | `native/win/x64` |
+| [ruff-x86_64-pc-windows-msvc.zip.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-x86_64-pc-windows-msvc.zip.sha256) | 98 B | `native/win/x64` |
+| [ruff-x86_64-unknown-linux-gnu.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-x86_64-unknown-linux-gnu.tar.gz) | 9.7 MiB | `native/linux/x64/glibc` |
+| [ruff-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-x86_64-unknown-linux-gnu.tar.gz.sha256) | 103 B | `native/linux/x64/glibc` |
+| [ruff-x86_64-unknown-linux-musl.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-x86_64-unknown-linux-musl.tar.gz) | 9.9 MiB | `native/linux/x64/musl` |
+| [ruff-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/ruff-x86_64-unknown-linux-musl.tar.gz.sha256) | 104 B | `native/linux/x64/musl` |
+| [sha256.sum](https://github.com/astral-sh/ruff/releases/download/0.17.5/sha256.sum) | 1.8 KiB | `other` |
+| [source.tar.gz](https://github.com/astral-sh/ruff/releases/download/0.17.5/source.tar.gz) | 14.2 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/astral-sh/ruff/releases/download/0.17.5/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 改进这些数据
 
@@ -109,4 +109,4 @@ ruff 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T05:16:53Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T04:31:15Z._
